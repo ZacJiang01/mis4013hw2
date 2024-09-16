@@ -1,4 +1,4 @@
-<>php
+<?php
 $pageTitle = "Get";
 include "view-header.php;
 ?>
